@@ -33,9 +33,6 @@ body ::before{
     width: 100%;
     margin: 3.125rem auto 0 auto;
 }
-.header ::before, ::after{
-    box-sizing: border-box;
-}
 .text-center{
     text-align: center;
 }
